@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4500&pause=500&color=2E8BF7&background=FF483A00&width=600&height=60&lines=Bem+vindo+a+biblioteca+de+%E2%9A%94+Dartanhan+%E2%9A%94)](https://git.io/typing-svg)
+
 # Olá eu sou Erik Salviano 👋
 
 
@@ -36,7 +38,4 @@
   <a href="https://www.linkedin.com/in/erik-salviano-8b56a224b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4500&pause=500&color=385DF7&background=FF483A00&width=440&lines=Bem+vindo+a+biblioteca+de+%E2%9A%94+Dartanhan+%E2%9A%94)](https://git.io/typing-svg)
 
