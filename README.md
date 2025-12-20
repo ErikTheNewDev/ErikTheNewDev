@@ -37,6 +37,6 @@
   
 </div>
 
-### 🐍 Minha Atividade no GitHub
 
-![Animação Snake](https://github.com/erikthenewdev/erikthenewdev/raw/output/github-contribution-grid-snake.svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4500&pause=500&color=385DF7&background=FF483A00&width=440&lines=Bem+vindo+a+biblioteca+de+%E2%9A%94+Dartanhan+%E2%9A%94)](https://git.io/typing-svg)
+
