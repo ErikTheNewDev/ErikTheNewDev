@@ -37,4 +37,6 @@
   
 </div>
 
-![ Snake animation ](https://github.com/erikthenewdev/erikthenewdev/blob/output/github-contribution-grid-snake.gif)
+### 🐍 Minha Atividade no GitHub
+
+![Animação Snake](https://github.com/erikthenewdev/erikthenewdev/raw/output/github-contribution-grid-snake.svg)
