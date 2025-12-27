@@ -1,6 +1,21 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&duration=4500&pause=500&color=2E8BF7&background=FF483A00&width=950&height=120&lines=Bem+vindo+a+biblioteca+de+%E2%9A%94+Dartanhan+%E2%9A%94)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3800&pause=500&color=2E8BF7&background=FF483A00&width=1030&height=60&lines=Bem+vindo+a+biblioteca+de+%E2%9A%94+Dartanhan+%E2%9A%94;Estou+em+constante+processo+de+aprendizado;E+o+foco+no+momento+%C3%A9+%F0%9F%A4%96+React+%F0%9F%A4%96)](https://git.io/typing-svg)
 # Olá eu sou Erik Salviano 👋
+
+<table>
+  <tr>
+    <td rowspan="2" valign="top">
+      <img src="./" width="250" />
+    </td>
+    <td valign="top">
+      <h1>Olá, eu sou [Seu Nome]!</h1>
+      <p>Este é o meu perfil personalizado do GitHub.</p>
+      <ul>
+        <li>Estudante de [Área]</li>
+        <li>Desenvolvedor Front-end</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 
 - 🔭 Atualmente estou trabalhando com projetos freelancer.
