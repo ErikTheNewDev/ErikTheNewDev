@@ -1,39 +1,55 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3800&pause=500&color=2E8BF7&background=FF483A00&width=1030&height=60&lines=Bem+vindo+a+biblioteca+de+%E2%9A%94+Dartanhan+%E2%9A%94;Estou+em+constante+processo+de+aprendizado;E+o+foco+no+momento+%C3%A9+%F0%9F%A4%96+React+%F0%9F%A4%96)](https://git.io/typing-svg)
-# Olá eu sou Erik Salviano 👋
+
 
 <table>
   <tr>
     <td rowspan="2" valign="top">
-      <img src="./" width="250" />
+      <img src="dartanha.png" width="250" />
     </td>
     <td valign="top">
-      <h1>Olá, eu sou [Seu Nome]!</h1>
-      <p>Este é o meu perfil personalizado do GitHub.</p>
+      <h1>Olá! Eu sou Erik de Queiroz Marques Salviano</h1>
+      <p>Este é o meu perfil estilizado no GitHub.</p>
       <ul>
-        <li>Estudante de [Área]</li>
+        <li>Estudante de Analise e Desenvolvimentos de Sistemas pela UNIP</li>
         <li>Desenvolvedor Front-end</li>
+        <li>Freelancer web develooper</li>
+        <li>Migrando 100% para carreira na area</li>
+        <li>Aluno voraz da Alura, e em constante desenvolvimento</li>
+        <li>Experiencia em trabalhar em equipe na area administrativa</li>
+        <li>Experiencia em liderar equipe para bater metas na area administrativa</li>
+        <li>Fiz parte da equipe que recebeu certificado de qualidade ONA I em 2023 na area administrativa</li>
+        <li>O apelido "Dartanhan" eu recebi por conta do cabelo e do bigode e desde então é meu nick</li>
       </ul>
     </td>
   </tr>
 </table>
 
 
+<h1>Um pouco mais sobre mim</h1>
 - 🔭 Atualmente estou trabalhando com projetos freelancer.
-- 🌱 Atualmente estou estudando JAVA, React e NODE.js na Alura.
+- 🌱 O foco dos estudos agora são: JAVA, React e NODE.js na Alura.
 - 👯 Busco trabalhar em um ambiente que incentive aprendizagem.
 - 🤔 eu espero contribuir e aprender para me tornar um profissional valioso!
 - 📫 como chegar a mim: Sou de São Paulo capital, email: erikqmsalviano@gmail.com...
 - 🎻 Fato engraçado: Meu interesse por programação e desenvolvimento web começou quando descobri a função "inspecionar" no chrome e alterei tudo de uma pagina chamada Cifra Club onde pegava cifra das musicas para tocar no violão...
+<div align="center">
 
-<div>
-  <a href="https://https://github.com/ErikTheNewDev/ErikTheNewDev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erikthenewdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/erikthenewdev/github-readme-stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikthenewdev&layout=compact&langs-count=16&theme=tokyonight"/>
-</div> 
+<!-- Statistics -->
+### Estatísticas
 
+</div>
+
+| ![Erik Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ErikTheNewDev&mode-daily&theme=aura&title_color=DA70D6&icon_color=EE82EE") | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ErikTheNewDev&hide=Html&theme=aura) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ErikTheNewDev&theme=aura) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ErikTheNewDev&theme=aura) |
+| :-: |
+
+--- 
 ##
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
+  <h1>Minhas Tecnologias</h1>
   <img align="center" alt="Erik-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Erik-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg">
   <img align="center" alt="Erik-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
