@@ -24,14 +24,19 @@
   </tr>
 </table>
 
+---
 
 <h1>Um pouco mais sobre mim</h1>
+
 - 🔭 Atualmente estou trabalhando com projetos freelancer.
 - 🌱 O foco dos estudos agora são: JAVA, React e NODE.js na Alura.
 - 👯 Busco trabalhar em um ambiente que incentive aprendizagem.
 - 🤔 eu espero contribuir e aprender para me tornar um profissional valioso!
 - 📫 como chegar a mim: Sou de São Paulo capital, email: erikqmsalviano@gmail.com...
 - 🎻 Fato engraçado: Meu interesse por programação e desenvolvimento web começou quando descobri a função "inspecionar" no chrome e alterei tudo de uma pagina chamada Cifra Club onde pegava cifra das musicas para tocar no violão...
+
+---
+
 <div align="center">
 
 <!-- Statistics -->
@@ -58,8 +63,11 @@
   <img align="center" alt="Erik-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Erik-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-  
-  ##
+
+---
+<div align="center">
+  <h2>🤖 Obrigado por visitar meu perfil! 🤖</h2>  
+</div>
  
 <div> 
   <a href="https://www.instagram.com/erik.salviano/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
