@@ -8,12 +8,11 @@
     </td>
     <td valign="top">
       <h1>Olá! Eu sou Erik de Queiroz Marques Salviano</h1>
-      <p>Este é o meu perfil estilizado no GitHub.</p>
+      <p>Bem vindo ao meu perfil GitHub.</p>
       <ul>
         <li>Estudante de Analise e Desenvolvimentos de Sistemas pela UNIP</li>
         <li>Desenvolvedor Front-end</li>
         <li>Freelancer web develooper</li>
-        <li>Migrando 100% para carreira na area</li>
         <li>Aluno voraz da Alura, e em constante desenvolvimento</li>
         <li>Experiencia em trabalhar em equipe na area administrativa</li>
         <li>Experiencia em liderar equipe para bater metas na area administrativa</li>
@@ -28,11 +27,11 @@
 
 <h1>Um pouco mais sobre mim</h1>
 
-- 🔭 Atualmente estou trabalhando com projetos freelancer.
-- 🌱 O foco dos estudos agora são: JAVA, React e NODE.js na Alura.
-- 👯 Busco trabalhar em um ambiente que incentive aprendizagem.
-- 🤔 eu espero contribuir e aprender para me tornar um profissional valioso!
-- 📫 como chegar a mim: Sou de São Paulo capital, email: erikqmsalviano@gmail.com...
+- 🔭 Atualmente estou trabalhando com projetos freelancer. (LandingPages e sites)
+- 🌱 O foco dos estudos agora é: Python.
+- 💼 Aprecio um ambiente de trabalho que reconheça esforço e vontade de evoluir.
+- 🤔 Com foco em otmização de processos e desenvolvimento estetico espero contribuir e aprender sempre mais.
+- 📫 como chegar a mim: Sou de São Paulo capital, email: erikqmsalviano@gmail.com.
 - 🎻 Fato engraçado: Meu interesse por programação e desenvolvimento web começou quando descobri a função "inspecionar" no chrome e alterei tudo de uma pagina chamada Cifra Club onde pegava cifra das musicas para tocar no violão...
 
 ---
@@ -53,6 +52,12 @@
 --- 
 ##
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ErikTheNewDev/ErikTheNewDev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ErikTheNewDev/ErikTheNewDev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ErikTheNewDev/ErikTheNewDev/output/pacman-contribution-graph.svg">
+</picture>
+
 <div style="display: inline_block" align="center"><br>
   <h1>Minhas Tecnologias</h1>
   <img align="center" alt="Erik-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -63,6 +68,7 @@
   <img align="center" alt="Erik-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Erik-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+
 
 ---
 <div align="center">
